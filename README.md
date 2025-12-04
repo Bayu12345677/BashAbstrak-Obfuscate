@@ -135,7 +135,7 @@ make run
 <p align="left">
 
 <a href="https://t.me/ScriptingCli21" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@pejuangkentang4401" target="_blank">
