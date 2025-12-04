@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/Obfuscator-Bash_Abstrak-blueviolet?style=for-the-badge&logo=gnu" /><br><br>
 
   <img src="https://img.shields.io/static/v1?label=Sec&color=green&message=Pyramid+DOM+Net&logo=dotnet&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=.+&color=blue&message=Pyramid+Filter&logo=gnuprivacyguard&logoColor=white&style=for-the-badge"><br>
-  <img src="https://img.shields.io/static/v1?label=.%20&color=yellow&message=Obfuscator&logo=stackhawk&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=safe&color=blue&message=Pyramid+Filter&logo=gnuprivacyguard&logoColor=white&style=for-the-badge"><br>
+  <img src="https://img.shields.io/static/v1?label=Author&color=yellow&message=Polygon&logo=stackhawk&logoColor=white&style=for-the-badge">
   <br><br>
 </p>
 
