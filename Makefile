@@ -9,7 +9,7 @@ INSTALL_PATH := .
 
 SHELL := /data/data/com.termux/files/usr/bin/bash
 
-REQUIRE := xz-utils ruby figlet toilet gum fzf nodejs python xxd binutils bc curl wget pv bzip2 openssl-tool
+REQUIRE := xz-utils ruby figlet toilet gum fzf nodejs python xxd binutils bc curl wget pv bzip2 openssl-tool file
 
 # Colors
 RESET := \033[0m
