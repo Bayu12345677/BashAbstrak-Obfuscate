@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/static/v1?label=Sec&color=green&message=Pyramid+DOM+Net&logo=dotnet&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=safe&color=blue&message=Pyramid+Filter&logo=gnuprivacyguard&logoColor=white&style=for-the-badge"><br>
   <img src="https://img.shields.io/static/v1?label=Author&color=yellow&message=Polygon&logo=stackhawk&logoColor=white&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Bpeler&label=Views&color=00f7ff&style=for-the-badge&logo=elsevier"
   <br><br>
 </p>
 
